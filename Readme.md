@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sameer Sayed</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
-- 🔭 I’m currently working on **Chain Of Sounds, YRDN/Fanwine**
-
 - 📫 How to reach me **sameer.sayed890@gmail.com**
 
 - 📄 Know about my [experiences](https://drive.google.com/file/d/11Uwb3j3Ks5gOooHaFYBS7Cy43ug1cUW4/view?usp=sharing)

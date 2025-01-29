@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **sameer.sayed890@gmail.com**
 
-- 📄 Know about my [experiences](https://drive.google.com/file/d/11Uwb3j3Ks5gOooHaFYBS7Cy43ug1cUW4/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

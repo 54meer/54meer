@@ -62,7 +62,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=54meer&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="sameersayed" />
+  ![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=54meer&show_icons=true&theme=tokyonight)
 </p>
 
 <p align="center">

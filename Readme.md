@@ -62,15 +62,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  ![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=54meer&show_icons=true&theme=tokyonight)
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=54meer&theme=tokyonight&hide_border=true" alt="sameersayed" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=54meer&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="sameersayed" />
 </p>
 
 <br/>
